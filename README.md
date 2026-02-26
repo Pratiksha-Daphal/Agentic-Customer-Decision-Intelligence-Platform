@@ -105,6 +105,7 @@ The API exposes the **raw, auditable decision output**.
 - Deterministic
 - Explainable
 - Single source of truth
+<img width="1108" height="813" alt="final DI output" src="https://github.com/user-attachments/assets/4b2c900a-5745-4955-a9c4-50362107bb76" />
 
 The UI and explanations are **derived from this output**, never the other way around.
 
@@ -113,6 +114,7 @@ The UI and explanations are **derived from this output**, never the other way ar
 ## 📊 Business Decision Dashboard
 
 The Streamlit dashboard is designed for **business users**, not engineers.
+<img width="917" height="866" alt="image" src="https://github.com/user-attachments/assets/1264c481-6236-437e-9511-83cb85fec783" />
 
 ### What it shows
 - Recommended action
@@ -120,6 +122,7 @@ The Streamlit dashboard is designed for **business users**, not engineers.
 - Clear business explanation
 - Best-case vs worst-case framing
 - Historical context from similar customers
+<img width="1917" height="912" alt="st di" src="https://github.com/user-attachments/assets/9add9c29-61c5-4386-91ae-5ea35a917780" />
 
 ### Key views
 - Dashboard Home
